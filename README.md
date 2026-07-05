@@ -1,5 +1,7 @@
 # ASCII Spinning Cube
 
+> A tiny terminal-based 3D renderer written in C++.
+
 A small C++ console project that renders a rotating 3D cube directly in the Windows terminal using ASCII characters.
 
 ## Preview
